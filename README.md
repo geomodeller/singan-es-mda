@@ -1,6 +1,4 @@
-# SinGAN–ES-MDA for Geological CO₂ Storage History Matching:
-# From a Single Geological Interpretation to History Matching  
-
+# SinGAN–ES-MDA for Geological CO₂ Storage History Matching: From a Single Geological Interpretation to History Matching  
 ## A SinGAN–ES-MDA Framework for CO₂ Storage in Channelized Aquifers  
 **Jo et al., Geoenergy Science and Engineering (2026)**
 
