@@ -2,7 +2,7 @@
 
 ## From a Single Geological Interpretation to History Matching  
 ### A SinGAN–ES-MDA Framework for CO₂ Storage in Channelized Aquifers  
-**Jo et al., Geoenergy Science and Engineering (2025)**
+**Jo et al., Geoenergy Science and Engineering (2026)**
 
 ---
 
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 ## Running the Workflow
 ```bash
-python main.py
+python main_run_singan_esmda.py
 ```
 
 The script will:
@@ -135,12 +135,12 @@ The script will:
 
 If you use this repository, please cite:
 ```bibtex
-@article{Jo2025SinGANESMDA,
+@article{Jo2026SinGANESMDA,
   title={From a Single Geological Interpretation to History Matching:
          A SinGAN–ES-MDA Framework for CO₂ Storage in Channelized Aquifers},
   author={Jo, Honggeun and Park, Eunsil and Ahn, Seongin},
   journal={Geoenergy Science and Engineering},
-  year={2025}
+  year={2026}
 }
 ```
 ## Authors
